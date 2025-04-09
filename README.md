@@ -2,17 +2,6 @@
 
 Welcome to the **Health Monitoring and Analysis** project! This repository contains a health data analysis focused on various health metrics such as **Heart Rate**, **Blood Pressure**, **Body Temperature**, **Oxygen Saturation**, **Sleep Quality**, and **Stress Level**. The goal is to explore patterns and relationships within the data to gain insights about health metrics across different groups.
 
-## Table of Contents 📑
-- [Project Overview](#project-overview)
-- [Data Description](#data-description)
-- [Setup](#setup)
-- [Analysis and Visualizations](#analysis-and-visualizations)
-- [Outliers and Data Cleaning](#outliers-and-data-cleaning)
-- [Key Insights](#key-insights)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview 🔍
 This analysis uses a health dataset to examine various metrics, including heart rate, oxygen saturation, body temperature, and more. We explore how these metrics vary with factors like age, gender, and activity levels. The data is processed to handle missing values and outliers, followed by visualizations and correlations to draw meaningful conclusions. 📊
 
